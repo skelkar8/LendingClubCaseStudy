@@ -9,19 +9,19 @@
 
 ### Project Information
 
-> The project is a data science case study that uses the Lending Club data set to predict the driving factors for loan defaults.
+The project is a data science case study that uses the Lending Club data set to predict the driving factors for loan defaults.
 
 ### Project Background
 
-> The company is the largest **online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures**. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to **\'91risky\'92** applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+The company is the largest **online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures**. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to **\'91risky\'92** applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
 ### Project Statement
 
-> Find the driving factors which lead to defaulted loans, resulting in losses for the company.
+Find the driving factors which lead to defaulted loans, resulting in losses for the company.
 
 ### Data Set
 
-> The data set is a .csv file with the loan data for the Lending Club.
+The data set is a .csv file with the loan data for the Lending Club.
 
 ## Conclusions
 
